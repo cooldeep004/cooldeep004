@@ -2,7 +2,7 @@
 - 👀 I’m interested in java backend development , software development
 - 🌱 Experienced in Spring boot , restApi, Microservice
 - 🌱 leetcode :- https://leetcode.com/kuldeepsingh04/
-- 💞️ I’m looking for a opportunity in core java and related framework
+- 💞️ I’m looking for a opportunity in java developer / java full stack developer
 - 📫 How to reach me on ks1511singh@gmail.com 
 
 <!---
